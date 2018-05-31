@@ -1,0 +1,11 @@
+{
+	"foodmart": {
+		"JdbcDriver": "com.mysql.jdbc.Driver",
+		"Jdbc": "jdbc:mysql://localhost:3306/bug_report_schema?tinyInt1isBit=false",
+		"JdbcUser": "root",
+		"JdbcPassword": "admin123",
+		"Catalog": "/Schema2.xml",
+		"Description": "Pentaho/Hyde FoodMart Database",
+		"IsDemo": true
+	}
+}

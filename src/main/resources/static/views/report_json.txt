@@ -1,0 +1,527 @@
+{
+	"cells": [{
+		"formattedValue": "7",
+		"value": 7.0,
+		"ordinal": 0,
+		"coordinates": [0, 0],
+		"error": null
+	}, {
+		"formattedValue": "5",
+		"value": 5.0,
+		"ordinal": 1,
+		"coordinates": [1, 0],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 2,
+		"coordinates": [2, 0],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 3,
+		"coordinates": [3, 0],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 4,
+		"coordinates": [4, 0],
+		"error": null
+	}, {
+		"formattedValue": "17",
+		"value": 17.0,
+		"ordinal": 5,
+		"coordinates": [0, 1],
+		"error": null
+	}, {
+		"formattedValue": "17",
+		"value": 17.0,
+		"ordinal": 6,
+		"coordinates": [1, 1],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 7,
+		"coordinates": [2, 1],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 8,
+		"coordinates": [3, 1],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 9,
+		"coordinates": [4, 1],
+		"error": null
+	}, {
+		"formattedValue": "353",
+		"value": 353.0,
+		"ordinal": 10,
+		"coordinates": [0, 2],
+		"error": null
+	}, {
+		"formattedValue": "328",
+		"value": 328.0,
+		"ordinal": 11,
+		"coordinates": [1, 2],
+		"error": null
+	}, {
+		"formattedValue": "22",
+		"value": 22.0,
+		"ordinal": 12,
+		"coordinates": [2, 2],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 13,
+		"coordinates": [3, 2],
+		"error": null
+	}, {
+		"formattedValue": "2",
+		"value": 2.0,
+		"ordinal": 14,
+		"coordinates": [4, 2],
+		"error": null
+	}, {
+		"formattedValue": "87",
+		"value": 87.0,
+		"ordinal": 15,
+		"coordinates": [0, 3],
+		"error": null
+	}, {
+		"formattedValue": "79",
+		"value": 79.0,
+		"ordinal": 16,
+		"coordinates": [1, 3],
+		"error": null
+	}, {
+		"formattedValue": "8",
+		"value": 8.0,
+		"ordinal": 17,
+		"coordinates": [2, 3],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 18,
+		"coordinates": [3, 3],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 19,
+		"coordinates": [4, 3],
+		"error": null
+	}, {
+		"formattedValue": "49",
+		"value": 49.0,
+		"ordinal": 20,
+		"coordinates": [0, 4],
+		"error": null
+	}, {
+		"formattedValue": "42",
+		"value": 42.0,
+		"ordinal": 21,
+		"coordinates": [1, 4],
+		"error": null
+	}, {
+		"formattedValue": "5",
+		"value": 5.0,
+		"ordinal": 22,
+		"coordinates": [2, 4],
+		"error": null
+	}, {
+		"formattedValue": "2",
+		"value": 2.0,
+		"ordinal": 23,
+		"coordinates": [3, 4],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 24,
+		"coordinates": [4, 4],
+		"error": null
+	}, {
+		"formattedValue": "25",
+		"value": 25.0,
+		"ordinal": 25,
+		"coordinates": [0, 5],
+		"error": null
+	}, {
+		"formattedValue": "11",
+		"value": 11.0,
+		"ordinal": 26,
+		"coordinates": [1, 5],
+		"error": null
+	}, {
+		"formattedValue": "3",
+		"value": 3.0,
+		"ordinal": 27,
+		"coordinates": [2, 5],
+		"error": null
+	}, {
+		"formattedValue": "11",
+		"value": 11.0,
+		"ordinal": 28,
+		"coordinates": [3, 5],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 29,
+		"coordinates": [4, 5],
+		"error": null
+	}, {
+		"formattedValue": "19",
+		"value": 19.0,
+		"ordinal": 30,
+		"coordinates": [0, 6],
+		"error": null
+	}, {
+		"formattedValue": "19",
+		"value": 19.0,
+		"ordinal": 31,
+		"coordinates": [1, 6],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 32,
+		"coordinates": [2, 6],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 33,
+		"coordinates": [3, 6],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 34,
+		"coordinates": [4, 6],
+		"error": null
+	}, {
+		"formattedValue": "14",
+		"value": 14.0,
+		"ordinal": 35,
+		"coordinates": [0, 7],
+		"error": null
+	}, {
+		"formattedValue": "12",
+		"value": 12.0,
+		"ordinal": 36,
+		"coordinates": [1, 7],
+		"error": null
+	}, {
+		"formattedValue": "2",
+		"value": 2.0,
+		"ordinal": 37,
+		"coordinates": [2, 7],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 38,
+		"coordinates": [3, 7],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 39,
+		"coordinates": [4, 7],
+		"error": null
+	}, {
+		"formattedValue": "30",
+		"value": 30.0,
+		"ordinal": 40,
+		"coordinates": [0, 8],
+		"error": null
+	}, {
+		"formattedValue": "26",
+		"value": 26.0,
+		"ordinal": 41,
+		"coordinates": [1, 8],
+		"error": null
+	}, {
+		"formattedValue": "3",
+		"value": 3.0,
+		"ordinal": 42,
+		"coordinates": [2, 8],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 43,
+		"coordinates": [3, 8],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 44,
+		"coordinates": [4, 8],
+		"error": null
+	}, {
+		"formattedValue": "36",
+		"value": 36.0,
+		"ordinal": 45,
+		"coordinates": [0, 9],
+		"error": null
+	}, {
+		"formattedValue": "31",
+		"value": 31.0,
+		"ordinal": 46,
+		"coordinates": [1, 9],
+		"error": null
+	}, {
+		"formattedValue": "4",
+		"value": 4.0,
+		"ordinal": 47,
+		"coordinates": [2, 9],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 48,
+		"coordinates": [3, 9],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 49,
+		"coordinates": [4, 9],
+		"error": null
+	}, {
+		"formattedValue": "15",
+		"value": 15.0,
+		"ordinal": 50,
+		"coordinates": [0, 10],
+		"error": null
+	}, {
+		"formattedValue": "14",
+		"value": 14.0,
+		"ordinal": 51,
+		"coordinates": [1, 10],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 52,
+		"coordinates": [2, 10],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 53,
+		"coordinates": [3, 10],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 54,
+		"coordinates": [4, 10],
+		"error": null
+	}, {
+		"formattedValue": "75",
+		"value": 75.0,
+		"ordinal": 55,
+		"coordinates": [0, 11],
+		"error": null
+	}, {
+		"formattedValue": "51",
+		"value": 51.0,
+		"ordinal": 56,
+		"coordinates": [1, 11],
+		"error": null
+	}, {
+		"formattedValue": "11",
+		"value": 11.0,
+		"ordinal": 57,
+		"coordinates": [2, 11],
+		"error": null
+	}, {
+		"formattedValue": "10",
+		"value": 10.0,
+		"ordinal": 58,
+		"coordinates": [3, 11],
+		"error": null
+	}, {
+		"formattedValue": "3",
+		"value": 3.0,
+		"ordinal": 59,
+		"coordinates": [4, 11],
+		"error": null
+	}, {
+		"formattedValue": "258",
+		"value": 258.0,
+		"ordinal": 60,
+		"coordinates": [0, 12],
+		"error": null
+	}, {
+		"formattedValue": "183",
+		"value": 183.0,
+		"ordinal": 61,
+		"coordinates": [1, 12],
+		"error": null
+	}, {
+		"formattedValue": "51",
+		"value": 51.0,
+		"ordinal": 62,
+		"coordinates": [2, 12],
+		"error": null
+	}, {
+		"formattedValue": "24",
+		"value": 24.0,
+		"ordinal": 63,
+		"coordinates": [3, 12],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 64,
+		"coordinates": [4, 12],
+		"error": null
+	}, {
+		"formattedValue": "15",
+		"value": 15.0,
+		"ordinal": 65,
+		"coordinates": [0, 13],
+		"error": null
+	}, {
+		"formattedValue": "13",
+		"value": 13.0,
+		"ordinal": 66,
+		"coordinates": [1, 13],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 67,
+		"coordinates": [2, 13],
+		"error": null
+	}, {
+		"formattedValue": "1",
+		"value": 1.0,
+		"ordinal": 68,
+		"coordinates": [3, 13],
+		"error": null
+	}, {
+		"formattedValue": "",
+		"value": null,
+		"ordinal": 69,
+		"coordinates": [4, 13],
+		"error": null
+	}],
+	"axes": [{
+		"ordinal": 0,
+		"name": "COLUMNS",
+		"positions": [{
+			"memberDimensionNames": ["Type"],
+			"memberDimensionCaptions": ["Type"],
+			"memberDimensionValues": ["All Types"],
+			"memberLevelNames": ["[Type].[(All)]"]
+		}, {
+			"memberDimensionNames": ["Type"],
+			"memberDimensionCaptions": ["Type"],
+			"memberDimensionValues": ["Bug"],
+			"memberLevelNames": ["[Type].[Type]"]
+		}, {
+			"memberDimensionNames": ["Type"],
+			"memberDimensionCaptions": ["Type"],
+			"memberDimensionValues": ["Improvement"],
+			"memberLevelNames": ["[Type].[Type]"]
+		}, {
+			"memberDimensionNames": ["Type"],
+			"memberDimensionCaptions": ["Type"],
+			"memberDimensionValues": ["New Feature"],
+			"memberLevelNames": ["[Type].[Type]"]
+		}, {
+			"memberDimensionNames": ["Type"],
+			"memberDimensionCaptions": ["Type"],
+			"memberDimensionValues": ["Task"],
+			"memberLevelNames": ["[Type].[Type]"]
+		}]
+	}, {
+		"ordinal": 1,
+		"name": "ROWS",
+		"positions": [{
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Abby Cadabby"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Bert"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Big Bird"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Cookie Monster"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Count von Count"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Elmo"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Ernie"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Grover"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Oscar"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Rosita"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Telly Monster"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Triage"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Unassigned"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}, {
+			"memberDimensionNames": ["Assignee"],
+			"memberDimensionCaptions": ["Assignee"],
+			"memberDimensionValues": ["Zoe"],
+			"memberLevelNames": ["[Assignee].[Assignee]"]
+		}]
+	}]
+}

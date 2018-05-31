@@ -1,0 +1,52 @@
+<schema name="IssueSchema">
+    <cube name="Issue" cache="true" enabled="true">
+        <table name="fact_issue">
+        </table>
+        <dimension foreignKey="issue_type_id" name="Type">
+            <hierarchy hasAll="true" allMemberName="All Types" primaryKey="issue_type_id">
+                <Table name="dim_type">
+                </Table>
+                <Level name="Type" column="issue_type" type="String" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+                </Level>
+            </hierarchy>
+        </dimension>
+        <dimension foreignKey="assignee_id" name="Assignee">
+            <hierarchy hasAll="true" allMemberName="All Assignees" primaryKey="assignee_id">
+                <Table name="dim_assignee">
+                </Table>
+                <Level name="Assignee" column="assignee" type="String" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+                </Level>
+            </hierarchy>
+        </dimension>
+        <dimension foreignKey="priority_id" name="Priority">
+            <hierarchy hasAll="true" allMemberName="All Priorities" primaryKey="priority_id">
+                <Table name="dim_priority">
+                </Table>
+                <Level name="Priority" column="priority" type="String" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+                </Level>
+            </hierarchy>
+        </dimension>
+        <dimension foreignKey="status_id" name="Status">
+            <hierarchy hasAll="true" allMemberName="All Status" primaryKey="status_id">
+                <Table name="dim_status">
+                </Table>
+                <Level name="Status" column="status" type="String" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+                </Level>
+            </hierarchy>
+        </dimension>
+        <dimension foreignKey="resolution_id" name="Resolution">
+            <hierarchy hasAll="true" allMemberName="All Resolution" primaryKey="resolution_id">
+                <Table name="dim_resolution">
+                </Table>
+                <Level name="Resolution" column="resolution" type="String" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+                </Level>
+            </hierarchy>
+        </dimension>
+        <Measure name="Issue Count" column="id" formatString="Standard" aggregator="count">
+        </Measure>
+    </cube>
+    <role name="Admin">
+        <schemaGrant access="all">
+        </schemaGrant>
+    </role>
+</schema>
